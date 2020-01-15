@@ -1,0 +1,23 @@
+body {
+  background: #grey;
+}
+
+.container {
+  display: flex;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+.card {
+  width: 15%;
+  display: inline-flex;
+  margin: 3px;
+}
+
+.cardImage {
+  height: 300px;
+}
+
+.centerContainer {
+  text-align: center;
+}
