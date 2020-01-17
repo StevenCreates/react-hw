@@ -1,5 +1,6 @@
 body {
   background: #grey;
+  font-family: "Open Sans", sans-serif;
 }
 
 .container {
@@ -20,4 +21,15 @@ body {
 
 .centerContainer {
   text-align: center;
+}
+
+.pointContainer {
+  width: 100%;
+  display: block;
+  border: 3px black solid;
+  border-radius: 5px;
+}
+
+.title {
+  font-size: 48px;
 }
